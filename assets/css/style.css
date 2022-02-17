@@ -79,11 +79,6 @@ section {
     position: relative;
 }
 
-.hero-secondary {
-    background-color: black;
-    color: red;
-}
-
 .hero-form {
     background-color: #fce138;
     padding: 20px;
@@ -273,17 +268,3 @@ font-style: normal;
     color: #fce138;
 }
 /* REACH OUT STYLES END */
-
-.page-title {
-    color: #fce138
-}
-
-.page-title h2{
-    display: inline-block;
-    border-bottom: 4px solid #fce138;
-    color: #fce138;
-    padding: 0 80px 15px 80px;
-    font-weight: normal;
-    font-size: 42px;
-    font-style: italic;
-}
