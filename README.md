@@ -4,8 +4,8 @@
 A Website that offers fitness training services.
 
 ## Buikt With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://Rbenney15.github.io/run-buddy/
